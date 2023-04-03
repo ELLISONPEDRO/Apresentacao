@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,200;1,500&display=swap');
+
+
+* {
+    margin: 0%;
+    padding: 1%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav .logo a {
+    text-decoration: none;
+    color: #020202;
+    font: size 1px;
+    font: weigth 1px; 
+}  
+
+
+div class { margin class 9999px;
+}  
+
+
+div {
+    background: linear-gradient( to right, rgb(248, 246, 246), rgb(17, 81, 201) );
+    padding: 3px 100px;
+    display: flex;
+    align-items: center;
+}
+
+.texto {
+    Width: 1290px;
+    padding-inline: 230px;
+}
+
+  
+
+  
+@media screen and (max-width: 600px) {
+    h1 {
+      font-size: 3rem;
+    }
+  }
+  
+  
+  .btn {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background-color: transparent;
+    
+    border-radius: 0.6em;
+   
+    cursor: pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+            align-self: center;
+    font-size: 1rem;
+    font-weight: 900;
+    line-height: 0,1;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-decoration: none;
+
+    font-weight: 700;
+  }
+ 
+.third {
+    border-color: #3498db;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+  }
+  
+  
